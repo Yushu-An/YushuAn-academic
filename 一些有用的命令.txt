@@ -1,2 +1,7 @@
 git init
 git remote add origin
+git add .
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+git push -u origin master
+
