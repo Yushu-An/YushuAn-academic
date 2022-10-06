@@ -23,7 +23,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-   # - certificate_url: https://www.coursera.org
+
+   # certificate_url: https://www.coursera.org
   - date_end: ''
     date_start: ''
     description: ''
@@ -31,7 +32,7 @@ item:
     organization_url: ''
     title: Hybrid offline programming method for robotic welding systems
     url: ''
-  # - certificate_url: https://www.edx.org
+  # certificate_url: https://www.edx.org
   - date_end: ''
     date_start: ''
     description: ''
@@ -39,7 +40,7 @@ item:
     organization_url: ''
     title: Knowledge-based engineering approach for defining robotic manufacturing system architectures
     url: ''
-  # - certificate_url: https://www.datacamp.com
+  # certificate_url: https://www.datacamp.com
   - date_end: ''
     date_start: ''
     description: ''
@@ -47,7 +48,7 @@ item:
     organization_url: ''
     title: Heterogeneous requirement gathering for generative design of robotic manufacturing systems
     url: ''
- # - certificate_url: https://www.datacamp.com
+ # certificate_url: https://www.datacamp.com
   - date_end: ''
     date_start: ''
     description: ''
