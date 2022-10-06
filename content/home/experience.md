@@ -30,7 +30,6 @@ experience:
     date_start: 'Apr 2021'
     date_end: 'Present'
     description: |2-
-    constructed a mobile manipulator and digital twin system for it to solve the problems of tedious experimental steps and long waiting time
         Responsibilities include: 
         
         * Integrated a mobile manipulator with functions of map establishment, navigation and end-effector alignment
@@ -46,7 +45,7 @@ experience:
     date_start: 'Jun 2021'
     date_end: 'Sep 2022'
     description: Built evaluation model for its production and test process of aerospace liquid propulsion products to guide the construction of its manufacturing cells
-        Responsibilities include
+        Responsibilities include: 
         
         * Put forward partial evaluation elements and sub elements according to the theory of 5M1E
         * Investigated a number of cells in China Academy of Aerospace Liquid Propulsion Technology, such as engine assembly, casting, electroplating, etc., to iterate and optimize evaluation elements and criteria
@@ -60,7 +59,7 @@ experience:
     date_start: 'Sep 2020'
     date_end: 'Oct 2021'
     description: Designed a vision system for its hull’s sub-assembly welding robot equipment and experimented on it, so as to achieve high efficiency, high quality and high Automated welding process
-        Responsibilities include
+        Responsibilities include: 
         
         * Installed laser transmitters and cameras on the gantry, which are used to scan the workpiece before welding
         * Analyzed images showing the situation of laser irradiation on the workpiece and designed an image recognition algorithm to recognize welding seams in images
@@ -74,7 +73,7 @@ experience:
     date_start: 'Sep 2020'
     date_end: 'Oct 2021'
     description: Experienced full production process of 3D modeling, programming, processing and assembly
-        Responsibilities include
+        Responsibilities include: 
         
         * Learned how to build 3D model and generate machining program in a CAM software named SurfMill
         * Used the SurfMill software and NC Machine Tool to complete the design and machining of a fingertip top toy
