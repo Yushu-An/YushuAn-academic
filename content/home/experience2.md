@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Hybrid offline programming method for robotic welding systems
-    title_url: 'https://www.sciencedirect.com/science/article/abs/pii/S0736584521001198'
+    # title_url: 'https://www.sciencedirect.com/science/article/abs/pii/S0736584521001198'
     company: Robotics and Computer-Integrated Manufacturing, 2022, 73, 102238. (SCI, IF = 5.666)
     company_url: ''
     # company_logo: org-gc
@@ -32,7 +32,7 @@ experience:
     # date_end: ''
     # description: |2-
   - title: Knowledge-based engineering approach for defining robotic manufacturing system architectures
-    title_url: 'https://www.tandfonline.com/doi/abs/10.1080/00207543.2022.2037025'
+    # title_url: 'https://www.tandfonline.com/doi/abs/10.1080/00207543.2022.2037025'
     company: International Journal of Production Research, 2022, 1-19. (SCI, IF = 8.568)
     company_url: ''
     # company_logo: org-gc
@@ -41,7 +41,7 @@ experience:
     # date_end: ''
     # description: |2-
   - title: Heterogeneous requirement gathering for generative design of robotic manufacturing systems
-    title_url: 'https://www.sciencedirect.com/science/article/pii/S2212827121012129'
+    # title_url: 'https://www.sciencedirect.com/science/article/pii/S2212827121012129'
     company: Procedia CIRP, 2021, 104, 1861-1866. (EI)
     company_url: ''
     # company_logo: org-gc
@@ -50,7 +50,7 @@ experience:
     # date_end: ''
     # description: |2-
   - title: Application of configuration principle on knowledge-based engineering for manufacturing system design
-    title_url: 'https://www.sciencedirect.com/science/article/pii/S2212827121011306'
+    # title_url: 'https://www.sciencedirect.com/science/article/pii/S2212827121011306'
     company: Procedia CIRP, 2021, 104, pp.1378-1383. (EI)
     company_url: ''
     # company_logo: org-gc
