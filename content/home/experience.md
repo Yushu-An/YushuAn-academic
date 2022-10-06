@@ -44,7 +44,7 @@ experience:
     # location: California
     date_start: 'Jun 2021'
     date_end: 'Sep 2022'
-    description: Built evaluation model for its production and test process of aerospace liquid propulsion products to guide the construction of its manufacturing cells
+    description: |2-
         Responsibilities include: 
         
         * Put forward partial evaluation elements and sub elements according to the theory of 5M1E
@@ -58,7 +58,7 @@ experience:
     # location: California
     date_start: 'Sep 2020'
     date_end: 'Oct 2021'
-    description: Designed a vision system for its hull’s sub-assembly welding robot equipment and experimented on it, so as to achieve high efficiency, high quality and high Automated welding process
+    description: |2-
         Responsibilities include: 
         
         * Installed laser transmitters and cameras on the gantry, which are used to scan the workpiece before welding
@@ -72,7 +72,7 @@ experience:
     # location: California
     date_start: 'Sep 2020'
     date_end: 'Oct 2021'
-    description: Experienced full production process of 3D modeling, programming, processing and assembly
+    description: |2- Experienced full production process of 3D modeling, programming, processing and assembly
         Responsibilities include: 
         
         * Learned how to build 3D model and generate machining program in a CAM software named SurfMill
