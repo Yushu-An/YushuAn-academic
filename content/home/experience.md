@@ -29,7 +29,8 @@ experience:
     # location: California
     date_start: '2021-04-01'
     date_end: ''
-    description: |2-
+    description: |3-
+        description: Constructed a mobile manipulator and digital twin system for it to solve the problems of tedious experimental steps and long waiting time
         Responsibilities include: 
         
         * Integrated a mobile manipulator with functions of map establishment, navigation and end-effector alignment
