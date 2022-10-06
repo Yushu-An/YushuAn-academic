@@ -24,30 +24,30 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   # - certificate_url: https://www.coursera.org
-  - date_end: '2022'
-    date_start: '2021'
+  - date_end: '2022-10-01'
+    date_start: '2021-10-01'
     description: ''
     organization: Northwestern Polytechnical University
     # organization_url: https://www.coursera.org
     title: National scholarship (top 1%, twice)
     # url: ''
  #  - certificate_url: https://www.edx.org
-  - date_end: '2022'
-    date_start: '2020'
+  - date_end: '2022-10-01'
+    date_start: '2020-09-01'
     description: ''
     organization: Mechatronic College
   # organization_url: https://www.edx.org
     title: The First Prize scholarship (three times)
   # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   # - certificate_url: https://www.datacamp.com
-  - date_end: '2021'
+  - date_end: '2021-10-01'
     date_start: ''
     description: ''
     organization: Northwestern Polytechnical University
     # organization_url: https://www.datacamp.com
     title: 'University - level Outstanding Postgraduate'
     url: ''   
-  - date_end: '2018'
+  - date_end: '2018-11-01'
     date_start: ''
     description: ''
     organization: Honors College
