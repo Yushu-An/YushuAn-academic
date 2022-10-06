@@ -31,7 +31,7 @@ image:
 
 authors:
   - Zheng, C
-  - admin
+  - An, Y
   - Wang, Z
   - Wu, H
   - Qin, X
@@ -47,10 +47,10 @@ categories:
   - SCI
 ---
 
-```python
-import libr
-print('hello')
-```
+# ```python
+# import libr
+# print('hello')
+# ```
 
 ## Overview
 
