@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'publications'
 subtitle:
 
 # Date format
@@ -23,31 +23,38 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+   # - certificate_url: https://www.coursera.org
+   - date_end: ''
+    date_start: ''
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: Robotics and Computer-Integrated Manufacturing
+    organization_url: ''
+    title: Hybrid offline programming method for robotic welding systems
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+  # - certificate_url: https://www.edx.org
+   - date_end: ''
+    date_start: ''
+    description: ''
+    organization: International Journal of Production Research
+    organization_url: ''
+    title: Knowledge-based engineering approach for defining robotic manufacturing system architectures
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  # - certificate_url: https://www.datacamp.com
+  - date_end: ''
+    date_start: ''
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Procedia CIRP, 2021, 104, 1861-1866. (EI)
+    organization_url: ''
+    title: 'Heterogeneous requirement gathering for generative design of robotic manufacturing systems'
     url: ''
-
+ # - certificate_url: https://www.datacamp.com
+  - date_end: ''
+    date_start: ''
+    description: ''
+    organization: Procedia CIRP, 2021, 104, pp.1378-1383. (EI)
+    organization_url: ''
+    title: 'Application of configuration principle on knowledge-based engineering for manufacturing system design'
+    url: ''
 design:
   columns: '2'
 ---
