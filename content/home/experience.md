@@ -31,7 +31,7 @@ experience:
     date_end: 'Present'
     description: |2-
     constructed a mobile manipulator and digital twin system for it to solve the problems of tedious experimental steps and long waiting time
-        Responsibilities include
+        Responsibilities include: 
         
         * Integrated a mobile manipulator with functions of map establishment, navigation and end-effector alignment
         * Created a virtual model for the digital twin of the mobile manipulator in Unity3D
