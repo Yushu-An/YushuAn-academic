@@ -40,15 +40,15 @@ item:
     title: The First Prize scholarship (three times)
   # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   # - certificate_url: https://www.datacamp.com
-  - date_end: '2021-10-01'
-    date_start: ''
+  - date_end: ''
+    date_start: '2021-10-01'
     description: ''
     organization: Northwestern Polytechnical University
     # organization_url: https://www.datacamp.com
     title: 'University - level Outstanding Postgraduate'
     url: ''   
-  - date_end: '2018-11-01'
-    date_start: ''
+  - date_end: ''
+    date_start: '2018-11-01'
     description: ''
     organization: Honors College
     # organization_url: https://www.datacamp.com
@@ -56,5 +56,5 @@ item:
     url: ''
 
 design:
-  columns: '2'
+  columns: '4'
 ---
