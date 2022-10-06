@@ -29,7 +29,8 @@ experience:
     # location: California
     date_start: 'Apr 2021'
     date_end: 'Present'
-    description: constructed a mobile manipulator and digital twin system for it to solve the problems of tedious experimental steps and long waiting time
+    description: |2-
+    constructed a mobile manipulator and digital twin system for it to solve the problems of tedious experimental steps and long waiting time
         Responsibilities include:
         
         * Integrated a mobile manipulator with functions of map establishment, navigation and end-effector alignment
@@ -44,7 +45,7 @@ experience:
     # location: California
     date_start: 'Jun 2021'
     date_end: 'Sep 2022'
-    description: built evaluation model for its production and test process of aerospace liquid propulsion products to guide the construction of its manufacturing cells
+    description: Built evaluation model for its production and test process of aerospace liquid propulsion products to guide the construction of its manufacturing cells
         Responsibilities include:
         
         * Put forward partial evaluation elements and sub elements according to the theory of 5M1E
@@ -58,7 +59,7 @@ experience:
     # location: California
     date_start: 'Sep 2020'
     date_end: 'Oct 2021'
-    description: designed a vision system for its hull’s sub-assembly welding robot equipment and experimented on it, so as to achieve high efficiency, high quality and high Automated welding process
+    description: Designed a vision system for its hull’s sub-assembly welding robot equipment and experimented on it, so as to achieve high efficiency, high quality and high Automated welding process
         Responsibilities include:
         
         * Installed laser transmitters and cameras on the gantry, which are used to scan the workpiece before welding
@@ -72,7 +73,7 @@ experience:
     # location: California
     date_start: 'Sep 2020'
     date_end: 'Oct 2021'
-    description: experienced full production process of 3D modeling, programming, processing and assembly
+    description: Experienced full production process of 3D modeling, programming, processing and assembly
         Responsibilities include:
         
         * Learned how to build 3D model and generate machining program in a CAM software named SurfMill
