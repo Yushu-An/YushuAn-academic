@@ -27,8 +27,8 @@ experience:
     # company_url: ''
     # company_logo: org-gc
     # location: California
-    date_start: 'Apr 2021'
-    date_end: 'Present'
+    date_start: '2021-04-01'
+    date_end: ''
     description: |2-
         Responsibilities include: 
         
@@ -42,8 +42,8 @@ experience:
     # company_url: ''
     # company_logo: org-x
     # location: California
-    date_start: 'Jun 2021'
-    date_end: 'Sep 2022'
+    date_start: '2021-07-01'
+    date_end: '2022-09-01'
     description: |2-
         Responsibilities include: 
         
@@ -56,8 +56,8 @@ experience:
     # company_url: ''
     # company_logo: org-x
     # location: California
-    date_start: 'Sep 2020'
-    date_end: 'Oct 2021'
+    date_start: '2020-09-01'
+    date_end: '2021-10-01'
     description: |2-
         Responsibilities include: 
         
@@ -70,8 +70,8 @@ experience:
     # company_url: ''
     # company_logo: org-x
     # location: California
-    date_start: 'Sep 2020'
-    date_end: 'Oct 2021'
+    date_start: '2020-09-01'
+    date_end: '2020-10-01'
     description: |2- 
         Responsibilities include: 
         
