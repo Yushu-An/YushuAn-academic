@@ -73,7 +73,6 @@ experience:
     date_start: 'Sep 2020'
     date_end: 'Oct 2021'
     description: |2- 
-    Experienced full production process of 3D modeling, programming, processing and assembly
         Responsibilities include: 
         
         * Learned how to build 3D model and generate machining program in a CAM software named SurfMill
