@@ -19,7 +19,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: 2858176220@qq.com
+      id: myyvjqjr
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
