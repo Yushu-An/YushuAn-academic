@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 90
 
 title: Skills
 subtitle:
@@ -34,7 +34,7 @@ feature:
 #  description: "90%"
 
 design:
-  columns: '2'
+  columns: '3'
 ---
 - Familiar with C#, Python and PLC ladder logic programming language
 - Ability to use Unity3D to develop scripts for robot kinetic simulation and develop digital twin system
