@@ -16,28 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Familiar with C#, Python and PLC ladder logic programming language
-    icon: 
-    icon_pack: 
-    name: Programming Language
-  - description: Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
-    icon: 
-    icon_pack: 
-    name: CAD&CAM
-  - description: Ability to use Unity3D to develop scripts for robot kinetic simulation and develop digital twin system
-    icon: 
-    icon_pack: 
-    name: Digital Twin
-  - description: 
-    icon: 
-    icon_pack: 
-    name: 
-  - description: 
-     Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots  
-     Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
-    icon: 
-    icon_pack: 
-    name: Machine Vision
+  
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -57,3 +36,8 @@ feature:
 design:
   columns: '2'
 ---
+- Familiar with C#, Python and PLC ladder logic programming language
+- Ability to use Unity3D to develop scripts for robot kinetic simulation and develop digital twin system
+-	Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots
+-	Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
+-	Familiar with stereo camera and other visual equipment, and able to use OpenCV and image recognition algorithms like Mask R-CNN
