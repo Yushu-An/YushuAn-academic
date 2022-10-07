@@ -13,7 +13,7 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   # Email form provider
   form:
@@ -25,7 +25,9 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: 2858176220@qq.com
+  email: 
+  * 2858176220@qq.com   
+  * anyushu@mail.nwpu.edu.cn 
   phone: (86)17792933677
   address:
     street: No.127 Youyi West Road
