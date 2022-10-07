@@ -32,7 +32,7 @@ feature:
     icon: 
     icon_pack: 
     name: 
-  - description: 
+  - description: |2-
      * Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots
      * Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
     icon: 
