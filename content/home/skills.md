@@ -27,7 +27,7 @@ feature:
   - description: Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots
     icon: 
     icon_pack: 
-    name: Slam
+    name: SLAM
   - description: Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
     icon: 
     icon_pack: 
