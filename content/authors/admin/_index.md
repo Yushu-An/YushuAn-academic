@@ -76,4 +76,4 @@ highlight_name: true
 
 Yushu An is currently a graduate student at the School of Mechanical Engineering of Northwestern Polytechnical University in Xi'an, China. Previously, he received the BSc degree from Northwestern Polytechnical University, in 2020. His main research topics are manufacturing system design, industrial robot and digital twin.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
