@@ -16,30 +16,38 @@ title: Publications
 subtitle:
 
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    date_start: ''
+    description: 'Zheng, C., **An, Y**., Wang, Z., Wu, H., Qin, X., Eynard, B. and Zhang, Y.'
+    organization: Robotics and Computer-Integrated Manufacturing, 2022, 73, 102238. 
+    organization_url: 
+    title: Hybrid offline programming method for robotic welding systems. Robotics and Computer-Integrated Manufacturing
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: 
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    date_start: ''
+    description: Zheng, C., **An, Y**., Wang, Z., Qin, X., Eynard, B., Bricogne, M., Le Duigou, J. and Zhang, Y.
+    organization: International Journal of Production Research, 2022, 1-19.
+    organization_url: 
+    title: Knowledge-based engineering approach for defining robotic manufacturing system architectures.
+    url: 
+  - certificate_url: 
+    date_end: ''
+    date_start: ''
+    description: 'Zheng, C., **An, Y**., Wang, Z., Qin, X., Yu, F., and Zhang, Y.'
+    organization: Procedia CIRP, 2021, 104, 1861-1866.
+    organization_url: 
+    title: Heterogeneous requirement gathering for generative design of robotic manufacturing systems.
     url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: ''
+    description: 'Zheng, C., **An, Y**., Wang, Z., Qin, X. and Yu, F.'
+    organization: Procedia CIRP, 2021, 104, pp.1378-1383.
+    organization_url: 
+    title: Application of configuration principle on knowledge-based engineering for manufacturing system design.
+    url: ''   
 
 # Section design
 design:
