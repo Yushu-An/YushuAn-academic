@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: anyushu@mail.nwpu.edu.cn
+  email: 2858176220@qq.com
   phone: (86)17792933677
   address:
     street: No.127 Youyi West Road
