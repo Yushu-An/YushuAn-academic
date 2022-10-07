@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Familiar with C#, Python and PLC ladder logic
+  - description: Familiar with C#, Python and PLC ladder logic programming language
     icon: 
     icon_pack: 
     name: Programming Language
@@ -31,7 +31,7 @@ feature:
   - description: Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
     icon: 
     icon_pack: 
-    name: CAD$CAM
+    name: CAD&CAM
   - description: Familiar with stereo camera and other visual equipment, and able to use OpenCV and image recognition algorithms like Mask R-CNN
     icon: 
     icon_pack: 
@@ -50,4 +50,7 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+
+design:
+  columns: '2'
 ---
