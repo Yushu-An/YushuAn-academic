@@ -15,7 +15,7 @@ title: Publications
 # Section subtitle
 subtitle:
 
-name:
+item:
   - certificate_url: 
     date_end: ''
     date_start: ''
