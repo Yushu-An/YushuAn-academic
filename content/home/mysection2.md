@@ -1,4 +1,6 @@
 ---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: testimonials
 headless: true  # This file represents a page section.
 
