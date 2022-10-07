@@ -16,18 +16,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+  - description: Familiar with C#, Python and PLC ladder logic programming language
+    icon: 
+    icon_pack: 
+    name: 
+  - description: Ability to use Unity3D to develop scripts for robot kinetic simulation and develop digital twin system
+    icon: 
+    icon_pack: 
+    name: 
+  - description: Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots
+    icon: 
+    icon_pack: 
+    name: 
+  - description: Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
+    icon: 
+    icon_pack: 
+    name: 
+  - description: Familiar with stereo camera and other visual equipment, and able to use OpenCV and image recognition algorithms like Mask R-CNN
+    icon: 
+    icon_pack: 
+    name: 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
