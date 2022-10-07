@@ -20,14 +20,25 @@ feature:
     icon: 
     icon_pack: 
     name: Programming Language
+  - description: Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
+    icon: 
+    icon_pack: 
+    name: CAD&CAM
   - description: Ability to use Unity3D to develop scripts for robot kinetic simulation and develop digital twin system
     icon: 
     icon_pack: 
     name: Digital Twin
-  - description: Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots
+  - description: 
+    icon: 
+    icon_pack: 
+    name: 
+  - description: 
+     *Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots
+                 Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
     icon: 
     icon_pack: 
     name: SLAM
+    
   - description: Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
     icon: 
     icon_pack: 
