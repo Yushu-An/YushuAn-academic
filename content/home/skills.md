@@ -33,20 +33,12 @@ feature:
     icon_pack: 
     name: 
   - description: 
-     *Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots
-                 Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
-    icon: 
-    icon_pack: 
-    name: SLAM
-    
-  - description: Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
-    icon: 
-    icon_pack: 
-    name: CAD&CAM
-  - description: Familiar with stereo camera and other visual equipment, and able to use OpenCV and image recognition algorithms like Mask R-CNN
+     * Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots
+     * Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
     icon: 
     icon_pack: 
     name: Machine Vision
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
