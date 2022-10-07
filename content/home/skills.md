@@ -33,7 +33,8 @@ feature:
     icon_pack: 
     name: 
   - description: 
-     Ability to use ROS under Linux to complete visual mapping and navigation of mobile robotsProficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
+     Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots  
+     Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
     icon: 
     icon_pack: 
     name: Machine Vision
