@@ -4,7 +4,7 @@
 widget: features
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 30
@@ -16,26 +16,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Familiar with C#, Python and PLC ladder logic programming language
+  - description: Familiar with C#, Python and PLC ladder logic
     icon: 
     icon_pack: 
-    name: 
+    name: Programming Language
   - description: Ability to use Unity3D to develop scripts for robot kinetic simulation and develop digital twin system
     icon: 
     icon_pack: 
-    name: 
+    name: Digital Twin
   - description: Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots
     icon: 
     icon_pack: 
-    name: 
+    name: Slam
   - description: Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
     icon: 
     icon_pack: 
-    name: 
+    name: CAD$CAM
   - description: Familiar with stereo camera and other visual equipment, and able to use OpenCV and image recognition algorithms like Mask R-CNN
     icon: 
     icon_pack: 
-    name: 
+    name: Machine Vision
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
