@@ -36,7 +36,7 @@ item:
   - date_end: '2022-10-01'
     date_start: '2020-09-01'
     description: ''
-    organization: Mechatronic College
+    organization: School of Mechanical Engineering
   # organization_url: https://www.edx.org
     title: The First Prize scholarship (three times)
   # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
