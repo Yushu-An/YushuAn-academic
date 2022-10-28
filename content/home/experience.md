@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Project of working station training in VR
+    company: Department of Technology and Innovation, University of Southern Denmark
+    # company_url: ''
+    # company_logo: org-gc
+    # location: California
+    date_start: '2022-10-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include: 
+          
+        * Constructed a VR scene of the working station by using Unity3D
+        * Taught employees to do the job like putting packages in specific box in the VR scene
+       
   - title: Project of Unmanned laboratory
     company: Institute of Biological Evidence in Xi’an Jiaotong University
     # company_url: ''
