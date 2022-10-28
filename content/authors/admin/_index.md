@@ -25,10 +25,14 @@ interests:
   - Robot
   - Digital Twin
   - Machine Vision
+  - Virtual Reality
 
 # Education to show in About widget
 education:
   courses:
+    - course: Exchange student 
+      institution: Department of Technology and Innovation
+      year: Oct 2022 – Dec 2022
     - course: MSc in Mechatronics Engineering 
       institution: Northwestern Polytechnical University
       year: Sep 2020 – Apr 2023
@@ -74,6 +78,6 @@ email: ''
 highlight_name: true
 ---
 
-Yushu An is currently a graduate student at the School of Mechanical Engineering of Northwestern Polytechnical University in Xi'an, China. Previously, he received the BSc degree from Northwestern Polytechnical University, in 2020. His main research topics are manufacturing system design, industrial robot and digital twin.
+Yushu An is currently a graduate student at the School of Mechanical Engineering of Northwestern Polytechnical University in Xi'an, China. Previously, he received the BSc degree from Northwestern Polytechnical University, in 2020. His main research topics are manufacturing system design, industrial robot virtual reality and digital twin.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
