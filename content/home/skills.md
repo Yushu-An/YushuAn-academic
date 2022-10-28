@@ -37,7 +37,7 @@ design:
   columns: '3'
 ---
 - Familiar with C#, Python and PLC ladder logic programming language
-- Ability to use Unity3D to develop scripts for robot kinetic simulation and develop digital twin system
+- Ability to use Unity3D to develop scripts for robot kinetic simulation, VR scene and digital twin system
 -	Ability to use ROS under Linux to complete visual mapping and navigation of mobile robots
 -	Proficiency with some tools including Solidworks, AutoCAD, Delmia, Matlab and other software for modeling and simulation
 -	Familiar with stereo camera and other visual equipment, and able to use OpenCV and image recognition algorithms like Mask R-CNN
