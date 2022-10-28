@@ -31,7 +31,7 @@ interests:
 education:
   courses:
     - course: Exchange student 
-      institution: Department of Technology and Innovation
+      institution: University of Southern Denmark
       year: Oct 2022 – Dec 2022
     - course: MSc in Mechatronics Engineering 
       institution: Northwestern Polytechnical University
